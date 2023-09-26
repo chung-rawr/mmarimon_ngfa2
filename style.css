@@ -1,0 +1,27 @@
+<style>
+        .menubar{
+            background-color:aquamarine;
+            border: 1px solid rgb(144, 18, 18); 
+            color:white;
+            padding: 20px;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            border-radius: 15px;
+            text-align: center;
+        }
+        #links{
+            display: inline;
+            border: 2px solid black;
+            padding: 5px;
+            margin: 5px;
+        }
+        #links:hover{
+            background-color: aqua;
+        }
+        #links a{
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: black;
+            font-style: none;
+            text-decoration: none;
+        }
+</style>
